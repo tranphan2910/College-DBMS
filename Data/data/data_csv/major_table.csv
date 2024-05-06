@@ -1,0 +1,24 @@
+major_id,major_name,department_ id,department_name
+MA,Applied Mathematics,MA,Department of Mathematics
+AR,Aquatic Resource Management,BT,School of Biotechnology
+EN,Arts in English Linguistics and Literature,EN,School of Languages
+BT,BioTechnology,BT,School of Biotechnology
+BA,Business Management,BA,School of Business
+CE,Civil Engineering,CE,School of Civil Engineering and Management
+CE,Computer Engineering,IT,School of Computer Science and Engineering
+CS,Computer Science,IT,School of Computer Science and Engineering
+CM,Construction Management,CE,School of Civil Engineering and Management
+AC,Control Engineering and Automation,EE,School of Electrical Engineering
+DS,Data Science,IT,School of Computer Science and Engineering
+EE,Electronic and Telecommunication,EE,School of Electrical Engineering
+FT,Food Technology,BT,School of Biotechnology
+HM,Hospitality Management,BA,School of Business
+IE,Industrial System and Engineering,IE,School of Industrial Engineering and Management
+IB,International Business Management,BA,School of Business
+LS,Logistics and Supply Chain Management,IE,School of Industrial Engineering and Management
+MK,Marketing,BA,School of Business
+NE,Network Engineering,IT,School of Computer Science and Engineering
+SE,Space Engineering,PH,Department of Physics
+,,,
+,,,
+,,,

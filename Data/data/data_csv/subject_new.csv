@@ -1,0 +1,270 @@
+Subject_ID,Subject_Name,Credit,Department_ID,Instructor_Name
+BA003IU,Principles of Marketing,3,BA,Deborah Hill
+BA005IU,Financial Accounting,3,BA,Charles Johnson
+BA006IU,Business Communication,3,BA,Dale Torres
+BA016IU,Fundamental of Financial Management,3,BA,Mercedes Kelly
+BA018IU,Quality Management,3,BA,Cynthia Parker
+BA020IU,Business Ethics,3,BA,Mike Patrick
+BA022IU,Logistic and Supply Chain Management,3,BA,Ashley Burns
+BA023IU,Project Management,3,BA,Mario Kidd
+BA027IU,E - Commerce,3,BA,Jesse Ramirez
+BA032IU,Sales Management,3,BA,Aaron Levy
+BA038IU,Customer Service Management,3,BA,William King
+BA051IU,International Financial Management,3,BA,William King
+BA068IU,International Economics,3,BA,Tina Perez
+BA080IU,Statistics for Business,3,BA,Brian Jordan
+BA081IU,Business Law,3,BA,Kristen Hill
+BA098IU,Leadership,3,BA,Donna Smith
+BA115IU,Introduction to Business Administration,3,BA,Deborah Hill
+BA117IU,Introduction to Micro Economics,3,BA,Johnny Mays
+BA118IU,Introduction to Psychology,3,BA,Hannah White
+BA119IU,Introduction to Macro Economics,3,BA,Mike Patrick
+BA120IU,Business Computing Skills,3,BA,Kristen Weiss
+BA123IU,Principles of Management,3,BA,Alexis Valencia
+BA130IU,Organizational Behavior,3,BA,Rachel Johnson
+BA140IU,Business Game,3,BA,Alan Moore
+BA150IU,Special Study,3,BA,William Perkins
+BA151IU,International Business Management,3,BA,Wendy Williams
+BA153IU,Internship,3,BA,Johnny Mays
+BA154IU,Entrepreneurship and Small Business Management,3,BA,Jesse Ramirez
+BA156IU,Human Resources Management,3,BA,Susan Keller
+BA158IU,Organizational Design and Change,3,BA,Lisa Peterson
+BA160IU,Negotiation and Relationship Management,3,BA,Cheryl Mckinney
+BA161IU,Business Research Methods,3,BA,Craig Thompson
+BA162IU,Strategy Formulation and Implementation,3,BA,Jose Buchanan
+BA164IU,Production and Operations Management,3,BA,Lauren Murphy
+BA167IU,Introduction to Vietnamese Legal System,3,BA,Melinda Russell
+BA168IU,Quantitative Methods for Business,3,BA,Susan Rodriguez
+BA169IU,Management Information Systems,3,BA,Shannon Frazier
+BA170IU,Thesis,12,BA,Brian Jordan
+BA171IU,Risk Management,3,BA,William King
+BA176IU,Franchising,3,BA,Patricia Glass
+BA197IU,Introduction to Sociology,3,BA,Joseph Taylor
+BA255IU,Specialized Internship,3,BA,Kenneth Hill
+BA256IU,Workshop 1,3,BA,Jonathan Nelson
+BA257IU,Workshop 2 on Financial,2,BA,Shari Mclaughlin
+BA272IU,Workshop 2 on Hospitality Management,2,BA,Anthony Wilkins
+BA273IU,Workshop 2 on International Business,2,BA,Carolyn Mcdonald
+BA274IU,Workshop 2 Business Management,2,BA,Ian Love
+BA275IU,Workshop 2 on Marketing,2,BA,William James
+BA281IU,Workshop 2 on Accounting Issues,2,BA,Susan Rodriguez
+BA282IU,Math for Business,4,BA,Brian Gonzalez
+EE097IU,Thesis,10,EE,Donna Smith
+EE010IU,Electromagnetic Theory,3,EE,Hannah White
+EE049IU,Introduction to EE,3,EE,Deborah Allen
+EE050IU,Intro to Computer for Engineers,3,EE,Brian Gonzalez
+EE051IU,Principles of EE 1 ,3,EE,Miranda Jones
+EE052IU,Principles of EE 1 Lab,1,EE,Charles Johnson
+EE053IU,Digital Logic Design,3,EE,Ashley Burns
+EE054IU,Digital Logic Design Lab,1,EE,Christopher Carlson
+EE054IU,Digital practice,1,EE,Alexis Valencia
+EE055IU,Principles of EE 2,3,EE,Madeline Ponce
+EE056IU,Principles of EE 2 Lab,1,EE,James Sanchez
+EE057IU,Programming for Engineers ,3,EE,Jose Buchanan
+EE058IU,Programming for Engineers Lab,1,EE,William Daniels
+EE068IU,Principles of Com. Systems,3,EE,Samantha Stein
+EE079IU,Power Electronics,3,EE,Kenneth Hill
+EE083IU,Micro-processing Systems,3,EE,Chad Smith
+EE084IU,Micro-processing Systems Lab,1,EE,Jacob Daniels
+EE088IU,Signals & Systems,3,EE,Jessica Sanders
+EE089IU,Signals & Systems Lab,1,EE,Linda Nelson
+EE090IU,Electronics Devices,3,EE,Karen Colon
+EE091IU,Electronics Devices Lab,1,EE,Daniel Sanders
+EE092IU,Digital Signal Processing,3,EE,Susan Rodriguez
+EE093IU,Digital Signal Processing Lab,1,EE,Karen Colon
+EE105IU,Microwave and antenna techniques,3,EE,Marcus Hoover
+EE107IU,Senior Project,2,EE,Wendy Ward
+EE115IU,Principles of Com. Systems Lab,1,EE,Kristen Hill
+EE124IU,Practice microwave and antenna techniques,1,EE,Jonathan Nelson
+EE130IU,Capstone Design 1,2,EE,Hannah White
+EE131IU,Capstone Design 2,2,EE,Ashley Burns
+EEAC003IU,Power Electronics Lab ,1,EE,Brandy Brooks
+EL001IU,Reading 1 B2-C1,3,EN,Jason Tyler
+EL002IU,Writing 1 B2-C1 ,3,EN,David Humphrey
+EL003IU,Listening 1 B2-C1 ,3,EN,Justin Lawrence
+EL004IU,Speaking 1 B2-C1 ,3,EN,Linda King
+EL005IU,Advanced Grammar ,2,EN,Carolyn Mcdonald
+EL006IU,Presentation Skills ,2,EN,Jose Buchanan
+EL007IU,Reading 2 C1-C2 ,3,EN,Steven Jenkins
+EL008IU,Writing 2 C1-C2 ,3,EN,Krystal Mooney
+EL009IU,Listening 2 C1-C2 ,3,EN,Jason Tyler
+EL010IU,Speaking 2 C1-C2 ,3,EN,Carolyn Mcdonald
+EL011IU,Research Writing ,2,EN,Ann Francis
+EL012IU,Research Methodology ,3,EN,Kenneth Hill
+EL013IU,Introduction to Linguistics ,3,EN,Shaun Morgan
+EL014IU,Introduction to English Teaching Methodology ,3,EN,Rachel Johnson
+EL015IU,Introduction to Literature ,3,EN,Justin Lawrence
+EL016IU,Introduction to Translation ,3,EN,Michelle Hickman
+EL017IU,Language and Culture ,3,EN,Shari Mclaughlin
+EL018IU,Cross-cultural Communication ,3,EN,William King
+EL019IU,British Civilization ,2,EN,Wendy Williams
+EL020IU,American Civilization ,2,EN,Whitney Ruiz
+EL021IU,Global Englishes ,3,EN,Shaun Morgan
+EL022IU,Phonetics and Phonology ,3,EN,Michelle Hickman
+EL023IU,Morphology ,3,EN,Jonathan Nelson
+EL024IU,Syntax ,3,EN,Richard Smith
+EL025IU,Semantics ,3,EN,Patricia Glass
+EL026IU,Translation 1  English to Vietnamese ,3,EN,Jacob Berry
+EL027IU,Translation 2  Vietnamese to English ,3,EN,Robert Potts
+EN007IU, Writing AE1,2,EN,Marcus Hoover
+EN008IU,Listening AE1,2,EN,Susan Rodriguez
+EN011IU,Writing AE2,2,EN,Madeline Ponce
+EN012IU, Speaking AE2,2,EN,Lauren Murphy
+IS001IU,Introduction to Industrial Engineering,1,IE,Melanie Kaufman
+IS004IU,Engineering Probability & Statistics,4,IE,Johnny Mays
+IS017IU,Work design & Ergonomics + Lab,4,IE,Daniel Sanders
+IS019IU,Production Management,3,IE,Craig Thompson
+IS020IU,Engineering Economy,3,IE,William Perkins
+IS021IU,Deterministic models in Operations Research,3,IE,Johnny Mays
+IS023IU,Inventory Management,3,IE,Shannon Frazier
+IS024IU,Probabilistic Models in OR,3,IE,Lisa Peterson
+IS025IU,Quality Management,3,IE,Kenneth Hill
+IS026IU,Project Management,3,IE,Melanie Kaufman
+IS027IU,Scheduling & Sequencing,3,IE,Jessica Sanders
+IS028IU,Simulation Models in IE,4,IE,Natasha Benton
+IS031IU,Experimental Design,3,IE,Linda Nelson
+IS032IU,Facility Layout,3,IE,David Humphrey
+IS033IU,Multi-Criteria Decision Making,3,IE,Joshua Baker
+IS034IU,Product Design & Development,3,IE,Samantha Stein
+IS035IU,Systems Engineering,3,IE,Cheryl Mckinney
+IS040IU,Management Information System,3,IE,Cynthia Parker
+IS041IU,Lean Production,3,IE,Linda Nelson
+IS043IU,Flexible Manufacturing Systems,3,IE,Shari Mclaughlin
+IS045IU,Leadership,3,IE,Daniel Sanders
+IS048IU,Thesis research,10,IE,Natasha Benton
+IS052IU,Internship 1,2,IE,Christopher Pacheco
+IS053IU,Internship 2,3,IE,Shannon Frazier
+IS054IU,Engineering Drawing,3,IE,Brian Jordan
+IS058IU,Time series & forecasting technique,3,IE,Michele Nelson
+IS062IU,E-Logistics in Supply Chain Management,3,IE,Christopher Knox
+IS067IU,International Transportation & Logistics,3,IE,Jose Buchanan
+IS078IU,Logistics engineering & supply chain design,3,IE,Whitney Ruiz
+IS079IU,Scientific Writing,2,IE,Stephen Anderson
+IS080IU,Creative Thinking ,3,IE,Veronica Romero
+IS081IU,Deterministic models in OR,4,IE,Michelle Hickman
+IS082IU,Retail Management,3,IE,Deborah Hill
+IS083IU,Capstone Design,3,IE,Miranda Jones
+IS085IU,CAD/CAM/CNC,3,IE,Krystal Mooney
+IS086IU,Introduction to Computing,3,IE,Christopher Carlson
+IS087IU,Manufacturing Processes,3,IE,Brian Gonzalez
+IS089IU,Numerical methods,3,IE,Susan Keller
+IS090IU,Engineering Mechanics  Dynamics,2,IE,Jonathan Nelson
+IT013IU,Algorithms & Data Structures,4,IT,Lauren Murphy
+IT024IU,Computer Graphics,4,IT,Ashley Burns
+IT056IU,IT Project Management,4,IT,Kayla Crosby
+IT058IU,Thesis,10,IT,Jonathan Nelson
+IT069IU,Object-Oriented Programming,4,IT,Tonya Williamson
+IT079IU,Principles of Database Management,4,IT,Miranda Jones
+IT082IU,Internship,3,IT,Justin Lawrence
+IT083IU,Special Study of the Field,3,IT,Maureen Monroe
+IT090IU,Object-Oriented Analysis and Design,4,IT,Carolyn Mcdonald
+IT094IU,Information System Management,4,IT,William Perkins
+IT096IU,Net-Centric Programming,4,IT,Lisa Peterson
+IT097IU,Introduction to Artificial Intelligence,4,IT,Jessica Sanders
+IT114IU,Software Architecture,4,IT,Kenneth Hill
+IT120IU,Entrepreneurship,3,IT,Ian Love
+IT130IU,Digital Image Processing,4,IT,Devin Ellis
+IT132IU,Introduction to Data Mining,4,IT,Joseph Taylor
+IT133IU,Mobile Application Development,4,IT,James Sanchez
+IT134IU,Internet of Things,4,IT,Melanie Kaufman
+IT135IU,Introduction to Data Science,3,IT,Wendy Williams
+IT136IU,Regression Analysis,4,IT,Madeline Ponce
+IT137IU,Data Analysis,4,IT,Whitney Ruiz
+IT138IU,Data Science and Data Visualization,4,IT,Linda Nelson
+IT139IU,Scalable and Distributed Computing,4,IT,Veronica Romero
+IT140IU,Fundamental Concepts of Data Security,4,IT,Stephen Anderson
+IT141IU,Big Data Applications: Machine Learning at Scale,4,IT,Maureen Monroe
+IT142IU,Analytics for Observational Data,4,IT,Michelle Hickman
+IT143IU,Fundamentals of Big Data Technology,4,IT,Lisa Peterson
+IT144IU,Business Process Analysis,4,IT,Brandy Brooks
+IT145IU,Decision Support System,4,IT,Aaron Mendoza
+IT146IU,Theory of Networks,4,IT,Lisa Peterson
+IT147IU,Mobile Cloud Computing,4,IT,Craig Thompson
+IT148IU,Experimental Design,4,IT,Kristen Hill
+IT149IU,Fundamentals of Programming,4,IT,Susan Rodriguez
+IT150IU,Blockchain,4,IT,Wendy Williams
+IT151IU,Statistical Methods,3,IT,Christopher Carlson
+IT152IU,Data Mining for IoT,4,IT,Christopher Knox
+IT154IU,Linear Algebra,3,IT,Tina Perez
+IT155IU,Optimization,3,IT,James Myers
+IT157IU,Deep Learning,4,IT,John Howell
+IT158IU,UI Design & Evaluation,4,IT,Patricia Glass
+IT160IU,Data Mining,4,IT,Marcus Hoover
+MA001IU,Calculus 1,4,MA,Ashley Burns
+MA003IU,Calculus 2,4,MA,James Myers
+MA023IU,Calculus 3,4,MA,Shannon Frazier
+MA024IU,Differential Equations,4,MA,Patricia Glass
+MA026IU,"Probability, Statistic & Random Process",3,MA,Tina Perez
+MA027IU,Applied Linear Algebra,2,MA,Jacob Berry
+MAFE201IU,Real Analysis,4,MA,Jacob Daniels
+MAFE202IU,Differential Equations,4,MA,Deborah Hill
+MAFE203IU,Analysis 3,3,MA,Robert Potts
+MAFE204IU,Database Management System,3,MA,Patricia Glass
+MAFE205IU,Computer Networks,4,MA,Christopher Carlson
+MAFE207IU,Decision Making,3,MA,Michele Nelson
+MAFE209IU,Numerical Analysis,4,MA,James Sanchez
+MAFE215IU,Financial Management,3,MA,Walter Johnson
+MAFE302I,Random Processes,3,MA,William James
+MAFE303IU,Optimization 1,4,MA,Marcus Hoover
+MAFE306IU,Financial Mathematics 1,3,MA,Cynthia Parker
+MAFE307IU,Optimization 2,3,MA,Kara Taylor
+MAFE308IU,Financial Risk Management 1,3,MA,Susan Keller
+MAFE314IU,Financial econometrics,3,MA,Joseph Clark
+MAFE315IU,Introduction to Corporate Finance,3,MA,Christopher Carlson
+MAFE316IU,Statistics,4,MA,Deborah Hill
+MAFE402IU,Portfolio Management,3,MA,Ian Love
+MAFE403IU,Research Methods in Finance,3,MA,Lauren Murphy
+PH012IU,Physics 4 (Optics & Atomics),2,PH,Patricia Glass
+PH013IU,Physics 1 (Mechanics),2,PH,Shannon Frazier
+PH014IU,Physics 2 (Thermodynamics),2,PH,Steven Jenkins
+PH015IU,Physics 3 (Electricity & Magnetism),3,PH,Walter Johnson
+PH016IU,Physics 3 Lab,1,PH,Miranda Jones
+PH018IU,Introduction to spatial engineering,2,PH,Jose Buchanan
+PH020IU,General Physics Practice 1,2,PH,Samantha Stein
+PH022IU,General Physics Practice 2,1,PH,Michelle Hayes
+PH024IU,General Physics Practice 3,1,PH,Daniel Sanders
+PH025IU,Math for Engineers,4,PH,Jessica Sanders
+PH026IU,Differential equation,2,PH,Hannah White
+PH028IU,Circuit theory,4,PH,Veronica Romero
+PH029IU,Introduction to modern relativity and physics,3,PH,Ann Francis
+PH030IU,Probability and statistics for engineers,3,PH,Kenneth Hill
+PH031IU,Optics and optics,2,PH,Mike Patrick
+PH032IU,Introduction to signals and systems,3,PH,Whitney Ruiz
+PH033IU,Signal and system practice,1,PH,Jessica Sanders
+PH035IU,About spatial contact,3,PH,Ian Love
+PH036IU,Remote sensing,3,PH,Samantha Stein
+PH037IU,Space environment,3,PH,Zachary Garcia
+PH038IU,Introduction to digital image processing,2,PH,Daniel Sanders
+PH039IU,Practice processing digital photos,1,PH,Hannah White
+PH040IU,Satellite technology,3,PH,Travis Rivera
+PH041IU,Processing digital photos,3,PH,William James
+PH042IU,Research project,4,PH,Alan Moore
+PH043IU,Practice signal processing and satellite images,3,PH,Craig Thompson
+BT155IU,General Biology,4,BT,Cheryl Mckinney
+CH101IU,General Chemistry,4,BT,Kristen Hill
+CH009IU,Organic chemistry,3,BT,Shari Mclaughlin
+CH013IU,Analytical chemistry,4,BT,Mario Kidd
+BT210IU,Human physiology,3,BT,Alexis Valencia
+BT164IU,Microbiology,4,BT,Walter Johnson
+BT203IU,Bioinformatics,4,BT,Brian Jordan
+BT184IU,Molecular diagnosis,4,BT,Lisa Peterson
+BT202IU,Internships in the profession,2,BT,Lauren Murphy
+BT150IU,Enter the technical CNSH,2,BT,Brian Jordan
+BT162IU,Genetics,4,BT,Carolyn Mcdonald
+BT010IU,Plant physiology,3,BT,Joseph Davis
+BT152IU,Biological statistics,3,BT,Ann Francis
+BT156IU,Biochemistry,4,BT,Kayla Crosby
+BT222IU,Cytology,3,BT,Kayla Crosby
+BT168IU,Molecular CNSH ,4,BT,Michelle Hayes
+BT205IU,Immunology,4,BT,James Sanchez
+BT217IU,Molecular genetics,3,BT,Tina Perez
+BT142IU,Biochemical extraction ,3,BT,Joseph Taylor
+BT172IU,Protein Biotechnology,4,BT,Jason Rowe
+BT218IU,Plant Science,3,BT,Jonathan Nelson
+BTFT206IU,Enzyme and Food Fermentation,3,BT,Joshua Moore
+BTFT204IU,Food microbiology,4,BT,Shari Mclaughlin
+BTFT302IU,Food analysis,4,BT,Joshua Baker
+BT220IU,Marine Biology,3,BT,Cheryl Mckinney
+BTFT205IU,Nutrition and Functional Food,4,BT,James Sanchez
+BT200IU,Method of writing scientific reports,2,BT,Shannon Frazier
+BT207IU,Human Pharmacology,3,BT,Joseph Taylor
